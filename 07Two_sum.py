@@ -1,7 +1,7 @@
 '''
 https://leetcode.com/problems/two-sum/
 
-1. 덧셈하여 타겟을 만들 수 있는 배열의 두 숫자 인덱스를 리턴
+Q:덧셈하여 타겟을 만들 수 있는 배열의 두 숫자 인덱스를 리턴
 
 Example 1:
 
